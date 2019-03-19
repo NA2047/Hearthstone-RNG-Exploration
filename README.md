@@ -3,5 +3,5 @@
 
 
 # Description
-This Project came from wanting to see if RNG within hearthstone was inscrease with each expansion and the relative concentrattions of these random cards within Classes 
+This Project came from wanting to see if RNG within hearthstone was inscreasing with each expansion and the relative concentrattions of these RNG cards within each Classes 
 
